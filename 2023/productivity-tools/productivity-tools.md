@@ -1,8 +1,9 @@
 ---
-marp: false
+marp: true
 title: Productivity Tools
-theme: gaia
 paginate: true
+author: zaki.afrani@gmail.com
+
 ---
 # warp
 https://www.warp.dev
